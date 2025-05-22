@@ -1,0 +1,8 @@
+streamlit
+pandas
+pillow
+pytesseract
+langchain
+langchain-google-genai
+sentence-transformers
+faiss-cpu
